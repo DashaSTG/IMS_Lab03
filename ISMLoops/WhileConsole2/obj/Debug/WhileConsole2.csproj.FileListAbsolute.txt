@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\ISMLoops\WhileConsole2\bin\Debug\WhileConsole2.exe.config
+C:\Users\ASUS\source\repos\ISMLoops\WhileConsole2\bin\Debug\WhileConsole2.exe
+C:\Users\ASUS\source\repos\ISMLoops\WhileConsole2\bin\Debug\WhileConsole2.pdb
+C:\Users\ASUS\source\repos\ISMLoops\WhileConsole2\obj\Debug\WhileConsole2.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\source\repos\ISMLoops\WhileConsole2\obj\Debug\WhileConsole2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ISMLoops\WhileConsole2\obj\Debug\WhileConsole2.exe
+C:\Users\ASUS\source\repos\ISMLoops\WhileConsole2\obj\Debug\WhileConsole2.pdb

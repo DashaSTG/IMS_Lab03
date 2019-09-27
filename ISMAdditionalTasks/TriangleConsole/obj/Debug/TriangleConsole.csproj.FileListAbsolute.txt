@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\ISMAdditionalTasks\TriangleConsole\bin\Debug\TriangleConsole.exe.config
+C:\Users\ASUS\source\repos\ISMAdditionalTasks\TriangleConsole\bin\Debug\TriangleConsole.exe
+C:\Users\ASUS\source\repos\ISMAdditionalTasks\TriangleConsole\bin\Debug\TriangleConsole.pdb
+C:\Users\ASUS\source\repos\ISMAdditionalTasks\TriangleConsole\obj\Debug\TriangleConsole.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ISMAdditionalTasks\TriangleConsole\obj\Debug\TriangleConsole.exe
+C:\Users\ASUS\source\repos\ISMAdditionalTasks\TriangleConsole\obj\Debug\TriangleConsole.pdb

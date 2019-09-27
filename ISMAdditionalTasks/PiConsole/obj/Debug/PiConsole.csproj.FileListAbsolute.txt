@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\ISMAdditionalTasks\PiConsole\bin\Debug\PiConsole.exe.config
+C:\Users\ASUS\source\repos\ISMAdditionalTasks\PiConsole\bin\Debug\PiConsole.exe
+C:\Users\ASUS\source\repos\ISMAdditionalTasks\PiConsole\bin\Debug\PiConsole.pdb
+C:\Users\ASUS\source\repos\ISMAdditionalTasks\PiConsole\obj\Debug\PiConsole.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\source\repos\ISMAdditionalTasks\PiConsole\obj\Debug\PiConsole.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ISMAdditionalTasks\PiConsole\obj\Debug\PiConsole.exe
+C:\Users\ASUS\source\repos\ISMAdditionalTasks\PiConsole\obj\Debug\PiConsole.pdb

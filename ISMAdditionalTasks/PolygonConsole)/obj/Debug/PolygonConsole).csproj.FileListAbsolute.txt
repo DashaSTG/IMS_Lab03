@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\ISMAdditionalTasks\PolygonConsole)\bin\Debug\PolygonConsole).exe.config
+C:\Users\ASUS\source\repos\ISMAdditionalTasks\PolygonConsole)\bin\Debug\PolygonConsole).exe
+C:\Users\ASUS\source\repos\ISMAdditionalTasks\PolygonConsole)\bin\Debug\PolygonConsole).pdb
+C:\Users\ASUS\source\repos\ISMAdditionalTasks\PolygonConsole)\obj\Debug\PolygonConsole).csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ISMAdditionalTasks\PolygonConsole)\obj\Debug\PolygonConsole).exe
+C:\Users\ASUS\source\repos\ISMAdditionalTasks\PolygonConsole)\obj\Debug\PolygonConsole).pdb

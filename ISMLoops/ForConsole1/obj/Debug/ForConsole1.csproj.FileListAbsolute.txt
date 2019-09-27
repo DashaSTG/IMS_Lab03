@@ -1,0 +1,6 @@
+C:\Users\ASUS\source\repos\ISMLoops\ForConsole1\bin\Debug\ForConsole1.exe.config
+C:\Users\ASUS\source\repos\ISMLoops\ForConsole1\bin\Debug\ForConsole1.exe
+C:\Users\ASUS\source\repos\ISMLoops\ForConsole1\bin\Debug\ForConsole1.pdb
+C:\Users\ASUS\source\repos\ISMLoops\ForConsole1\obj\Debug\ForConsole1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ISMLoops\ForConsole1\obj\Debug\ForConsole1.exe
+C:\Users\ASUS\source\repos\ISMLoops\ForConsole1\obj\Debug\ForConsole1.pdb
